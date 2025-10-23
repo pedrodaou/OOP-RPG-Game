@@ -30,5 +30,5 @@ RPG de texto em Java desenvolvido com **orientação a objetos**, oferecendo uma
 
 ## Integrantes
 
-* Pedro de Mello Porto Daou — RA 21010698
-* Yuri Cardoso Balieiro — RA 24011525
+* Pedro de Mello Porto Daou (RA 21010698)
+* Yuri Cardoso Balieiro (RA 24011525)
